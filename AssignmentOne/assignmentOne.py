@@ -20,4 +20,4 @@ print string1 + ' ' + string2
 
 num = 1
 
-print string1 + ' ' + string2 + ' ' + str(num)
+print "{0} {1} {2}".format(string1, string2, num)
